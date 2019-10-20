@@ -1,2 +1,2 @@
 // Write your solution in this file!
-let driver={name:'driver',color:'yellow'};
+let driver={name:'Dhuha',filedStudy:'computer science'};
