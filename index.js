@@ -12,7 +12,7 @@ function destructivelyUpdateDriverWithKeyAndValue(driver,key, value){
  
 }
 
-function destructivelyUpdateDriverWithKeyAndValue(driver,key, value){
+function deleteFromDriverByKey(driver,key, value){
   driver[key] = value;
 
   return driver;
